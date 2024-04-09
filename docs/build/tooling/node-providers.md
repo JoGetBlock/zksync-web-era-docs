@@ -47,4 +47,4 @@ head:
 | [https://zksync.drpc.org](https://zksync.drpc.org)                                                   | [https://zksync-era-sepolia.blockpi.network/v1/rpc/public](https://zksync-era-sepolia.blockpi.network/v1/rpc/public) |
 | [https://zksync.meowrpc.com](https://zksync.meowrpc.com)                                             |                                                                                                                      |
 | [https://zksync-era.blockpi.network/v1/rpc/public](https://zksync-era.blockpi.network/v1/rpc/public) |                                                                                                                      |
-| [https://go.getblock.io/f76c09905def4618a34946bf71851542](https://go.getblock.io/f76c09905def4618a34946bf71851542) | 
+| [https://go.getblock.io/f76c09905def4618a34946bf71851542](https://go.getblock.io/f76c09905def4618a34946bf71851542) |                                                                                                        |
